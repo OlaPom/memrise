@@ -1,0 +1,1 @@
+oxy_webhelp_navlinks = {"communicate-d236e160":{"topics":[{"title":"Start a chat","shortdesc":"<p class=\"shortdesc\">Put your skills into practice by chatting with MemBot<\/p>","href":"start_a_chat.html","attributes":{"data-id":"start_a_chat"},"menu":{"hasChildren":false},"tocID":"start_a_chat-d236e171","topics":[]}]}};
