@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="add_a_new_language">
+    <title>Add a new language</title>
+    <shortdesc> Learn more than one language</shortdesc>
+    <taskbody>
+        <context> You can learn multiple languages with one account and switch between different
+            dashboards.</context>
+        <steps>
+            <step>
+                <cmd>In the dashboard, click the dropdown menu next to the language. <image
+                        placement="break" href="screenshots_memrise/drop.png" scale="70"
+                        align="left" id="image_l23_ccf_bzb"/></cmd>
+            </step>
+            <step>
+                <cmd>Click <b>+Add language</b>. </cmd>
+            </step>
+            <step>
+                <cmd>Choose the language you want to learn, and click <b>Start learning.</b></cmd>
+            </step>
+            <step>
+                <cmd><ph>Choose your course level.</ph></cmd>
+            </step>
+        </steps>
+        <result id="result_bv5_p1l_dzb">You have now opened a new dashboard.</result>
+    </taskbody>
+</task>

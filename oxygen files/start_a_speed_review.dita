@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="start_a_speed_review">
+    <title>Start a speed review (web)</title>
+    <shortdesc> Test yourself against a timer</shortdesc>
+    <taskbody>
+        <context>In a speed review session, you must reply within a limited time. </context>
+        <steps>
+            <step>
+                <cmd>In the dashboard, click <b>Ready for practice</b>.<image placement="break"
+                        href="screenshots_memrise/review%20dash.png" scale="60" align="left"
+                        id="image_jyh_rcf_bzb"/></cmd>
+            </step>
+            <step>
+                <cmd>Click <b>Speed review.</b><image placement="break"
+                        href="screenshots_memrise/speed.png" scale="60" align="center"
+                        id="image_cxf_tdf_bzb"/></cmd>
+            </step>
+        </steps>
+        <result id="result_kvd_wyb_1zb"><ph>Your review session has started. Once completed, you'll
+                see a summary of your progress and possible next steps.</ph></result>
+    </taskbody>
+</task>

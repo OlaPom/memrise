@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>Memrise - User Guide</title>
+    <topicref href="what_is_memrise.dita">
+        <topicref href="create_account.dita"/>
+        <topicref href="get_started_mobile.dita"/>
+        <topicref href="add_a_new_language.dita"/>
+        <topicref href="untitled1.dita"/>
+    </topicref>
+    <topicref href="untitled2.dita">
+        <topicref href="start_learning.dita"/>
+        <topicref href="start_a_review.dita">
+            <topicref href="start_a_speed_review.dita"/>
+        </topicref>
+        <topicref href="start_a_review%20(mobile).dita"/>
+    </topicref>
+    <topicref href="immerse.dita">
+        <topicref href="watch_a_video_0.dita"/>
+    </topicref>
+    <topicref href="communicate.dita">
+        <topicref href="start_a_chat.dita"/>
+    </topicref>
+    <topicref href="settings.dita">
+        <topicref href="change_learning_settings.dita"/>
+        <topicref href="change_test_type_preferences.dita"/>
+    </topicref>
+</map>

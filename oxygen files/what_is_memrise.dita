@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="what_is_memrise">
+    <title>What is Memrise?</title>
+    <shortdesc>Discover what you can learn with Memrise</shortdesc>
+    <conbody>
+        <p>Memrise is an app that lets you interactively learn and practice foreign languages. It
+            uses spaced repetition to help you memorize vocabulary effectively.</p>
+        <p dir="ltr">Memrise offers courses in 23 languages. See <xref href="untitled1.dita">the
+                list</xref>. </p>
+        <p>The app consists of three modules:<ul id="ul_vxy_nqr_zyb">
+                <li><b>Learn</b> - where you can learn new vocabulary with flashcards.</li>
+                <li><b>Immerse</b> - where you can watch videos recorded by native speakers.</li>
+                <li><b>Communicate</b> - where you can have a conversation with an AI-powered
+                    chatbot.</li>
+            </ul></p>
+        <p>In the dashboard, you can find statistics that help you track your progress and plan your
+            learning. You can also navigate between the modules. </p>
+        <p>
+            <fig id="fig_xt3_fmz_dzb">
+                <title>Use the image map below to learn more.</title>
+            </fig>
+            <imagemap id="imagemap_d1p_sd2_dzb">
+                <image href="screenshots_memrise/dashboard.png" id="image_ywp_rd2_dzb"
+                    placement="break" align="center"/>
+                <area>
+                    <shape>rect</shape>
+                    <coords>30, 216, 212, 273</coords>
+                    <xref href="untitled2.dita" format="dita"/>
+                </area>
+                <area>
+                    <shape>rect</shape>
+                    <coords>24, 285, 206, 342</coords>
+                    <xref href="immerse.dita" format="dita"/>
+                </area>
+                <area>
+                    <shape>rect</shape>
+                    <coords>20, 359, 239, 417</coords>
+                    <xref href="communicate.dita" format="dita"/>
+                </area>
+                <area>
+                    <shape>rect</shape>
+                    <coords>1706, 3, 1891, 71</coords>
+                    <xref href="settings.dita" format="dita"/>
+                </area>
+                <area>
+                    <shape>rect</shape>
+                    <coords>307, 15, 455, 69</coords>
+                    <xref href="add_a_new_language.dita" format="dita"/>
+                </area>
+            </imagemap>
+        </p>
+        <section id="section_knx_4bq_bzb">
+            <title>Is Memrise for me?</title>
+            <p><image placement="inline" href="screenshots_memrise/green%20check.png" scale="3"
+                    id="image_kcn_45d_dzb"/>Yes, if you want to expand your vocabulary.</p>
+            <p><image placement="inline" href="screenshots_memrise/green%20check.png" scale="3"
+                    id="image_cqk_s5d_dzb"/>Yes, if you want to focus on communication skills.</p>
+            <p><image placement="inline" href="screenshots_memrise/green%20check.png" scale="3"
+                    id="image_ejt_s5d_dzb"/>Yes, if you like to learn on the go and use even a short
+                time to study.</p>
+            <p><image placement="inline" href="screenshots_memrise/green%20check.png" scale="3"
+                    id="image_en1_t5d_dzb"/>Yes, if games and quizzes motivate you to achieve your
+                goals.</p>
+        </section>
+        <section>
+            <p>
+                <note id="note_ld3_nyc_bzb" type="note">Memrise has a free and a paid premium
+                    version. This guide will walk you through the free features.</note>
+                <note id="note_xpj_lrd_dzb">Memrise is available as a web app and mobile app. Unless
+                    otherwise specified, the instructions apply to both versions.</note>
+            </p>
+        </section>
+    </conbody>
+</concept>

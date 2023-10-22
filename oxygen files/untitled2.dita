@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="untitled2">
+    <title>Learn</title>
+    <shortdesc>Explore study scenarios and learn new words</shortdesc>
+    <conbody>
+        <p>In this module, you find sets of flashcards (called <i>scenarios</i>) to learn new
+            vocabulary. The scenarios are grouped by topic; you can also enter keywords in the
+            search box. Scenarios marked with a padlock are only available in the premium
+            version.</p>
+        <p>The number of words in a scenario varies. You can decide how many words you want to learn
+            in one session. See <xref href="change_learning_settings.dita">how to change session
+                settings</xref>. </p>
+        <p>Each flashcard includes:<ul id="ul_ktr_rpz_dzb">
+                <li>A word in the language you are learning.</li>
+                <li>Its translation to your language.</li>
+                <li>Pronunciation recording.</li>
+            </ul><fig id="fig_fzx_zkj_bzb">
+                <image placement="break" href="screenshots_memrise/flashcard.png" align="left"
+                    id="image_hkv_1lj_bzb" scale="60"/>
+            </fig></p>
+        <p>There are optional actions you can take on a flashcard:</p>
+        <p><image href="screenshots_memrise/mark%20as%20known.png" id="image_swk_11f_bzb" scale="70"
+            />Mark a word as known to exclude it from the tests.</p>
+        <p><image placement="inline" href="screenshots_memrise/mark%20difficult.png" scale="70"
+                id="image_ikw_l1f_bzb"/> Mark a word as difficult to practice it more
+            frequently.</p>
+        <p><b>Quizzes</b></p>
+        <p>Each learning session includes vocabulary flashcards and quick quizzes for interactive
+            practice. </p>
+        <p>The types of quizzes you will encounter:<ul id="ul_icr_h2s_zyb">
+                <li>typing tests</li>
+                <li>multiple-choice tests</li>
+                <li>listening skills</li>
+                <li>tapping test</li>
+            </ul><fig id="fig_lfp_glj_bzb">
+                <image placement="break" href="screenshots_memrise/quiz.png" align="left"
+                    id="image_lw3_hlj_bzb" scale="60"/>
+            </fig>You can customize your test type preferences. See <xref
+                href="change_test_type_preferences.dita">how to change the settings.</xref></p>
+    </conbody>
+</concept>

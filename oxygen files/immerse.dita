@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="immerse">
+    <title>Immerse</title>
+    <shortdesc>Learn from native speakers</shortdesc>
+    <conbody>
+        <section id="section_f5b_zkp_czb">
+            <title>Web</title>
+            <p>In this module, you can watch videos recorded by native speakers. The goal is to
+                learn how to use a given term in context. Use the search box to find interesting
+                topics. </p>
+            <p>Based on your learning progress, the app estimates how easy a video might be for you
+                to understand. Videos labeled "Ready to watch" contain only words you already know.
+                Videos marked as "Under 50% of words known" may be more challenging. </p>
+            <p>Each video comes with a scenario with the list of words used. You can use it for
+                practice and add it to your review list. </p>
+            <fig id="fig_ksn_3np_czb">
+                <image placement="break" href="screenshots_memrise/imm.png" align="center"
+                    id="image_ggn_jnp_czb"/>
+            </fig>
+        </section>
+        <section id="section_prd_ylp_czb">
+            <title>Mobile</title>
+            <p>In the mobile version, the videos are arranged by difficulty, starting from the
+                easiest.  Tap the search box to see the list of topics and hashtags. </p>
+            <fig id="fig_z15_5xk_dzb">
+                <image placement="break" href="screenshots_memrise/immerse%20mobile.png"
+                    align="left" id="image_elj_vxk_dzb" scale="30"/>
+            </fig>
+            <note id="note_ffw_jv2_bzb" type="note">In the free version, you can watch two videos
+                per day. You can watch an ad to unlock an additional video.</note>
+        </section>
+    </conbody>
+</concept>

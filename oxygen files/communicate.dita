@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="communicate">
+    <title>Communicate</title>
+    <shortdesc>Use AI to boost your language skills</shortdesc>
+    <conbody>
+        <p>This module is the most interactive. You can use your knowledge in a simulated
+            conversation with an AI-powered chatbot (MemBot).</p>
+        <p>You can practice two types of situations:<ul id="ul_hpd_fgf_bzb">
+                <li><b>Chats</b> - general conversations, for example, about your favorite
+                    music</li>
+                <li><b>Missions</b> - situations where you need to reach a goal, for example, order
+                    a coffee</li>
+            </ul></p>
+        <p>With speech recognition, you can turn the chat into a voice conversation and practice
+            speaking.</p>
+        <p>If at any point you feel stuck, MemBot can help you:<ul id="ul_aft_m3f_bzb">
+                <li>translate a sentence to your language.</li>
+                <li>with a hint if you don't know how to answer.</li>
+            </ul></p>
+        <p>MemBot also corrects any spelling error you may make.<fig id="fig_zxd_k3f_bzb">
+                <image placement="break" href="screenshots_memrise/spelling.png" align="left"
+                    id="image_pjv_k3f_bzb" scale="60"/>
+            </fig></p>
+        <p>
+            <note id="note_l3s_ljf_bzb">In the free version, you can have two conversations per day.
+                You can watch an ad to unlock an additional one.</note>
+        </p>
+    </conbody>
+</concept>

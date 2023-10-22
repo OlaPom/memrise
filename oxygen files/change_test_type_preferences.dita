@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="change_test_type_preferences">
+    <title>Change test type preferences (web only)</title>
+    <shortdesc>Tailor review sessions to your needs</shortdesc>
+    <taskbody>
+        <context>You can choose what test types are included in your review.</context>
+        <steps>
+            <step>
+                <cmd>On any page, go to <menucascade>
+                        <uicontrol>Settings<image placement="inline"
+                                href="screenshots_memrise/settings.png" scale="50"
+                                id="image_dkh_pxd_dzb"/></uicontrol>
+                        <uicontrol>Learning settings</uicontrol>
+                    </menucascade></cmd>
+            </step>
+            <step>
+                <cmd>Set your preferences.<image placement="break"
+                        href="screenshots_memrise/test%20types.png" scale="60" align="left"
+                        id="image_jvn_2zd_dzb"/></cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="start_a_chat">
+    <title>Start a chat</title>
+    <shortdesc>Put your skills into practice by chatting with MemBot</shortdesc>
+    <taskbody>
+        <context/>
+        <steps>
+            <step>
+                <cmd>Go to the Communicate tab.</cmd>
+            </step>
+            <step>
+                <cmd>Choose the topic of your conversation, and click the picture to start the
+                    chat.</cmd>
+            </step>
+            <step>
+                <cmd>Type your answers in the text box or use the microphone.</cmd>
+            </step>
+        </steps>
+        <example id="example_fp5_djj_bzb"><object data="screenshots_memrise/chat.mp4"
+                outputclass="video"/></example>
+        <postreq id="postreq_zfc_12j_bzb">Once you have finished the conversation, you can replay it
+            or start a new one.</postreq>
+    </taskbody>
+</task>

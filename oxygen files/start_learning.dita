@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="start_learning">
+    <title>Start learning</title>
+    <shortdesc>Get to know new vocabulary</shortdesc>
+    <taskbody>
+        <context id="context_tfg_1mj_bzb"/>
+        <steps id="steps_ufg_1mj_bzb">
+            <step>
+                <cmd>On the Learn tab, click a scenario.</cmd>
+            </step>
+            <step>
+                <cmd>Review the words on the list.</cmd>
+                <substeps id="substeps_wjv_mhs_zyb">
+                    <substep importance="optional">
+                        <cmd>Click <image href="screenshots_memrise/dots.png" scale="50"
+                                id="image_fyn_vmj_bzb"/>to mark a word as known/unknown.</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd>Click <b>Start learning</b>.</cmd>
+            </step>
+            <step>
+                <cmd>Click <b>Continue</b> to move to the next card.</cmd>
+            </step>
+        </steps>
+        <result id="result_ucm_23s_zyb">After completing the session, you'll see a summary of your
+            progress and possible next steps. <fig id="fig_xlk_43s_zyb">
+                <image placement="break" href="screenshots_memrise/completed%20session.png"
+                    align="left" id="image_ukk_ymj_bzb" scale="60"/>
+            </fig><note id="note_d5m_wfl_dzb" type="tip"> You can filter out premium scenarios and
+                only display free ones.<ul id="ul_zwx_zfl_dzb">
+                    <li>In the web app: check the <b>Show only free scenarios</b> box <image
+                            href="screenshots_memrise/free%20scenarios.png" id="image_s1j_sgl_dzb"
+                            scale="35"/></li>
+                    <li>In the mobile app: tap the search box, and select <b>Show only free
+                            scenarios</b> at the bottom of the screen. </li>
+                </ul>
+            </note></result>
+    </taskbody>
+</task>

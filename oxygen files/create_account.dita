@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="create_account">
+    <title>Get started (web)</title>
+    <shortdesc>Create an account and choose your first course</shortdesc>
+    <taskbody>
+        <context>
+            <p>To use Memrise, you must register. You can create a new account using your email
+                address or sign up with your Google, Facebook, or Apple account.</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Go to <xref href="http://www.memrise.com" format="html" scope="external"
+                        >www.memrise.com</xref> and click <b>Get started</b>.</cmd>
+            </step>
+            <step>
+                <cmd>Choose the language you want to learn.</cmd>
+            </step>
+            <step>
+                <cmd>Enter your email address and password and click <b>Register.</b></cmd>
+            </step>
+            <step>
+                <cmd>Choose your course level.<image placement="break"
+                        href="screenshots_memrise/level.png" align="left" id="image_iyn_ttx_bzb"
+                        scale="60"/></cmd>
+            </step>
+        </steps>
+        <result id="result_idy_4kl_xyb">You have now opened the dashboard.<note
+                id="note_lmz_5sx_bzb" type="tip">The number of available courses depends on the
+                language in the "I speak" field. It is filled in depending on the language of your
+                device, but you can change it at any time. If you select English in the "I speak"
+                field, you'll have access to courses in 23 languages. If you select Polish, you will
+                only see 5 languages to choose from.<fig id="fig_cmb_4tx_bzb">
+                    <image placement="break" href="screenshots_memrise/i%20speak.png" align="center"
+                        id="image_s3x_4tx_bzb"/>
+                </fig></note></result>
+    </taskbody>
+</task>

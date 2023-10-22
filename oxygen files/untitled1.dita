@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="untitled1">
+    <title>Languages</title>
+    <shortdesc>Languages you can learn with Memrise</shortdesc>
+    <refbody>
+        <simpletable frame="none" id="simpletable_uzg_xjs_zyb">
+            <strow>
+                <stentry>Chinese</stentry>
+            </strow>
+            <strow>
+                <stentry>Danish</stentry>
+            </strow>
+            <strow>
+                <stentry>Dutch</stentry>
+            </strow>
+            <strow>
+                <stentry>English</stentry>
+            </strow>
+            <strow>
+                <stentry>French</stentry>
+            </strow>
+            <strow>
+                <stentry>German</stentry>
+            </strow>
+            <strow>
+                <stentry>Icelandic</stentry>
+            </strow>
+            <strow>
+                <stentry>Italian</stentry>
+            </strow>
+            <strow>
+                <stentry>Japanese</stentry>
+            </strow>
+            <strow>
+                <stentry>Japanese (no script)</stentry>
+            </strow>
+            <strow>
+                <stentry>Korean</stentry>
+            </strow>
+            <strow>
+                <stentry>Mongolian</stentry>
+            </strow>
+            <strow>
+                <stentry>Norwegian</stentry>
+            </strow>
+            <strow>
+                <stentry>Polish</stentry>
+            </strow>
+            <strow>
+                <stentry>Portuguese (Brazil)</stentry>
+            </strow>
+            <strow>
+                <stentry>Portuguese (Portugal)</stentry>
+            </strow>
+            <strow>
+                <stentry>Russian</stentry>
+            </strow>
+            <strow>
+                <stentry>Slovenian</stentry>
+            </strow>
+            <strow>
+                <stentry>Spanish</stentry>
+            </strow>
+            <strow>
+                <stentry>Spanish (Mexico)</stentry>
+            </strow>
+            <strow>
+                <stentry>Swedish</stentry>
+            </strow>
+            <strow>
+                <stentry>Turkish</stentry>
+            </strow>
+            <strow>
+                <stentry>Yoruba</stentry>
+            </strow>
+        </simpletable>
+    </refbody>
+</reference>

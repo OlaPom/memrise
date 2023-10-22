@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="watch_a_video_0">
+    <title>Learn with a video</title>
+    <shortdesc> Watch and listen to broaden your vocabulary</shortdesc>
+    <taskbody>
+        <context>You can discover new vocabulary by watching videos registered by native
+            speakers.</context>
+        <steps>
+            <step>
+                <cmd>Go to the Immerse tab, and click a video.</cmd>
+            </step>
+            <step>
+                <cmd>After watching the video, click <b>Show scenario</b> to display related
+                        vocabulary.<image placement="break"
+                        href="screenshots_memrise/show%20scenario.png" align="left"
+                        id="image_qdv_bff_bzb"/></cmd>
+                <info>Based on your learning history, the app shows you how many words you already
+                    know. <fig id="fig_vkz_tnp_czb">
+                        <image placement="break" href="screenshots_memrise/immerse_review.png"
+                            align="left" id="image_ohq_vnp_czb" scale="60"/>
+                    </fig></info>
+                <substeps id="substeps_qqb_gdl_dzb">
+                    <substep importance="optional">
+                        <cmd>Click <image href="screenshots_memrise/dots.png" scale="50"
+                                id="image_fyn_vmj_bzb"/>to mark a word as known/unknown.</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd>Click <b>Learn words</b> to start a session.</cmd>
+            </step>
+            <step>
+                <cmd>Click <b>Continue</b> to move to the next card.</cmd>
+            </step>
+        </steps>
+        <result id="result_dnf_5ff_bzb">After completing the session, you'll see a summary of your
+            progress.</result>
+    </taskbody>
+</task>

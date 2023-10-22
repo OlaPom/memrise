@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="change_learning_settings">
+    <title>Change learning settings</title>
+    <shortdesc>Choose the number of words in a session</shortdesc>
+    <taskbody>
+        <context>You can decide how many words or phrases appear in a learning
+            session.<p/></context>
+        <steps>
+            <step>
+                <cmd>On any page, go to <menucascade>
+                        <uicontrol>Settings<image placement="inline"
+                                href="screenshots_memrise/settings.png" scale="50"
+                                id="image_dkh_pxd_dzb"/></uicontrol>
+                        <uicontrol>Learning settings</uicontrol>
+                    </menucascade></cmd>
+            </step>
+            <step>
+                <cmd>Set your preferences.<image placement="break"
+                        href="screenshots_memrise/session_settings.png" scale="70" align="left"
+                        id="image_utq_zxd_dzb"/></cmd>
+                <info>You don't need to save your changes.</info>
+            </step>
+        </steps>
+    </taskbody>
+</task>

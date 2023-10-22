@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="get_started_mobile">
+    <title>Get started (mobile)</title>
+    <shortdesc>Install the mobile app and register with Memrise</shortdesc>
+    <taskbody>
+        <prereq id="prereq_aml_qqd_dzb">The app requires Android 8.0 or higher and iOS 15.0 or
+            higher.</prereq>
+        <context>
+            <p></p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Install the application on your device:<xref
+                        href="https://play.google.com/store/apps/details?id=com.memrise.android.memrisecompanion&amp;hl=pl"
+                        format="html" scope="external">
+                        <image placement="break" href="screenshots_memrise/google-play-badge.png"
+                            align="center" id="image_kgr_rcj_bzb" scale="60"/>
+                    </xref><xref
+                        href="https://apps.apple.com/us/app/memrise-easy-language-learning/id635966718"
+                        format="html" scope="external">
+                        <image placement="break"
+                            href="screenshots_memrise/app-store-png-logo-33116.png" align="center"
+                            id="image_h3d_tcj_bzb" scale="60"/>
+                    </xref></cmd>
+            </step>
+            <step>
+                <cmd>Open the app and tap <b>Get started</b></cmd>
+            </step>
+            <step>
+                <cmd>Choose your language in the "I speak" field (filled automatically based on the
+                    language of your device).</cmd>
+            </step>
+            <step>
+                <cmd>Tap the language you want to learn.<image placement="break"
+                        href="screenshots_memrise/language%20mobile.png" align="left"
+                        id="image_pbc_gxk_dzb" scale="20"/></cmd>
+            </step>
+            <step>
+                <cmd>Sign up with your email:</cmd>
+                <substeps>
+                    <substep>
+                        <cmd>Enter your email and password.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Tap <b>Create account.</b></cmd>
+                    </substep>
+                </substeps>
+                <info>You can also sign up with your Facebook, Google, or Apple account.</info>
+            </step>
+            <step>
+                <cmd>Choose your course level.</cmd>
+            </step>
+        </steps>
+        <result id="result_s3y_fqd_dzb">You have now opened the dashboard. </result>
+    </taskbody>
+</task>

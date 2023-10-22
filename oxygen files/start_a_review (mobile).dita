@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="start_a_review_mobile_">
+    <title>Start a review (mobile)</title>
+    <shortdesc>Practice learned vocabulary on your smartphone</shortdesc>
+    <taskbody>
+        <context/>
+        <steps>
+            <step>
+                <cmd>Open the dashboard and scroll down to <b>Ready for review</b>.</cmd>
+            </step>
+            <step>
+                <cmd>Tap the type of review you want to start: </cmd>
+                <choices id="choices_btn_zld_dzb">
+                    <choice>Classic review</choice>
+                    <choice>Speed review</choice>
+                    <choice>Difficult words <image placement="break"
+                            href="screenshots_memrise/review%20mobile.png" scale="20" align="left"
+                            id="image_c1q_ycl_dzb"/></choice>
+                </choices>
+            </step>
+        </steps>
+        <result id="result_ysx_lxb_1zb"><ph>Your review session has started.</ph></result>
+    </taskbody>
+</task>
